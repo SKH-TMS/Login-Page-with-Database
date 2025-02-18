@@ -15,7 +15,7 @@ Repositry Number: T9
 ### Version 0 (v0)
 
 - Simple global styling is applied in globals.css
-- Passord is not encrypted before matching with database enteries; Login Page.
+- Password is not encrypted before matching with database enteries; Login Page.
 
 ## How to Run:
 
